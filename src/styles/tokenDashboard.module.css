@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
+.token-dashboard {
+  display: flex;
+  font-family: "Raleway", sans-serif;
+}
+.token-dashboard .sidebar {
+  width: 200px;
+  background-color: #f0f0f0;
+}
+.token-dashboard .sidebar .tab {
+  padding: 10px;
+  cursor: pointer;
+}
+.token-dashboard .sidebar .tab:hover {
+  background-color: #ddd;
+}
+.token-dashboard .content {
+  flex-grow: 1;
+  padding: 20px;
+}
+.token-dashboard .content .header {
+  margin-bottom: 20px;
+}
+.token-dashboard .content .header h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+.token-dashboard .content .header p {
+  font-size: 16px;
+  color: #666;
+}
+.token-dashboard .content .tab-content h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}/*# sourceMappingURL=tokenDashboard.module.css.map */

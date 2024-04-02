@@ -1,0 +1,27 @@
+/* tokenInformation.module.css */
+.tokenContainer {
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 600px;
+  background-color: #f9f9f9;
+  border: 1px solid #eaeaea;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.tokenHeader {
+  margin: 0 0 20px 0;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #eaeaea;
+}
+
+.tokenData {
+  padding: 5px 0;
+  font-size: 16px;
+}
+
+.label {
+  font-weight: bold;
+}
+
+/* You can adjust colors, font sizes, and other properties as needed *//*# sourceMappingURL=tokenInformation.module.css.map */

@@ -1,0 +1,13 @@
+.tokenManagement {
+  width: 100%;
+  height: 100vh;
+  background-color: #ECEFF1;
+}
+.tokenManagement .content {
+  width: 100%;
+  height: -moz-max-content;
+  height: max-content;
+  max-width: 970px;
+  margin: auto;
+  background-color: red;
+}/*# sourceMappingURL=tokenManagement.module.css.map */
